@@ -1,3 +1,6 @@
-nbprojects
+# ignore netbeans+dev
+/nbproject
+
+# ignore local copy of phpunit
 phpunit.phar
 
